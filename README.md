@@ -4,3 +4,4 @@
 #Personas aprendiendo sobre git
 - Rodrigo Almiron 
 - Ruben Zorilla
+- Wallter paredes
