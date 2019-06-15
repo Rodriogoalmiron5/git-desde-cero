@@ -3,3 +3,4 @@
 
 #Personas aprendiendo sobre git
 - Rodrigo Almiron 
+- Ruben Zorilla
